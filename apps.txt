@@ -1,0 +1,7 @@
+# Flatpak IDs installed from Flathub.
+org.kde.krita
+org.kde.kdenlive
+org.blender.Blender
+com.obsproject.Studio
+org.mozilla.firefox
+com.opera.opera-gx
