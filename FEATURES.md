@@ -87,3 +87,23 @@ Game frontends do not include proprietary game data; add only games or files you
 ## Blender included in every setup
 
 Blender (org.blender.Blender) is included in every setup for 3D modeling, animation, rendering, and video editing. Installers fetch it from Flathub; Blender’s own license and terms apply.
+
+## Fifteen additional purpose-specific applications
+
+The setup adds these Flathub applications for digital art, video editing, 3D work, and recording. Applications are fetched from Flathub by the setup script; each app keeps its own licensing and terms.
+
+1. **Shotcut** (org.shotcut.Shotcut) — Edit multitrack video with filters, transitions, and titles.
+2. **HandBrake** (fr.handbrake.ghb) — Transcode video files to common formats and presets.
+3. **OpenShot** (org.openshot.OpenShot) — Assemble video clips on a multitrack timeline.
+4. **Glaxnimate** (org.kde.glaxnimate) — Create vector animations, motion graphics, and animated SVG assets.
+5. **Subtitle Composer** (org.kde.subtitlecomposer) — Create and synchronize captions for video projects.
+6. **KPhotoAlbum** (org.kde.kphotoalbum) — Tag and organize large photo collections.
+7. **Kid3** (org.kde.kid3) — Edit audio tags and album metadata in batches.
+8. **Loupe** (org.gnome.Loupe) — View images and make simple crop, rotate, or flip edits.
+9. **Kasts** (org.kde.kasts) — Subscribe to podcasts and manage playback queues.
+10. **Jellyfin Desktop** (org.jellyfin.JellyfinDesktop) — Browse and play personal media from a configured Jellyfin server.
+11. **QGIS** (org.qgis.qgis) — Create and analyze geographic information system projects.
+12. **GNOME Maps** (org.gnome.Maps) — Look up places and routes using online map data.
+13. **Marble** (org.kde.marble) — Explore maps and a virtual globe for route and place context.
+14. **KGeography** (org.kde.kgeography) — Practice place and map recognition.
+15. **KGeoTag** (org.kde.kgeotag) — Review and edit photo location metadata.

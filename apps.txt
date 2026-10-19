@@ -56,3 +56,20 @@ org.kde.elisa
 com.github.wwmm.easyeffects
 com.github.flxzt.rnote
 org.kde.konsole
+
+# Fifteen further purpose-specific applications
+org.shotcut.Shotcut
+fr.handbrake.ghb
+org.openshot.OpenShot
+org.kde.glaxnimate
+org.kde.subtitlecomposer
+org.kde.kphotoalbum
+org.kde.kid3
+org.gnome.Loupe
+org.kde.kasts
+org.jellyfin.JellyfinDesktop
+org.qgis.qgis
+org.gnome.Maps
+org.kde.marble
+org.kde.kgeography
+org.kde.kgeotag
