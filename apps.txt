@@ -5,3 +5,8 @@ org.blender.Blender
 com.obsproject.Studio
 org.mozilla.firefox
 com.opera.opera-gx
+
+# Three additional preinstalled purpose-specific applications
+org.gimp.GIMP
+org.inkscape.Inkscape
+org.scribus.Scribus
