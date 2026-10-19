@@ -48,3 +48,6 @@ flatpak install --system --noninteractive flathub org.audacityteam.Audacity org.
 
 # Fifteen additional purpose-specific applications
 flatpak install --system --noninteractive flathub io.github.OpenToonz org.synfig.SynfigStudio com.orama_interactive.Pixelorama org.kde.digikam org.gnome.Shotwell com.rawtherapee.RawTherapee org.musescore.MuseScore io.lmms.LMMS org.hydrogenmusic.Hydrogen org.guitarix.Guitarix org.mozilla.Thunderbird org.gnome.Evolution org.gnome.SoundRecorder com.github.tchx84.Flatseal org.gnome.Calendar
+
+# Fifteen further purpose-specific applications
+flatpak install --system --noninteractive flathub org.kde.kamoso org.kde.kwave org.kde.kate org.gnome.meld org.kde.okular org.kde.gwenview org.kde.dolphin org.kde.ark org.kde.filelight io.github.flattool.Warehouse org.kde.kolourpaint org.kde.elisa com.github.wwmm.easyeffects com.github.flxzt.rnote org.kde.konsole
