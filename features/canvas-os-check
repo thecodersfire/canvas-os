@@ -1,0 +1,8 @@
+#!/usr/bin/env bash
+set -euo pipefail
+ask(){ local answer; read -r -p "$1 [y/N] " answer; [[ "$answer" =~ ^[Yy]([Ee][Ss])?$ ]]; }
+echo 'Canvas-OS readiness checklist'
+ask 'Are source assets and their licenses documented?' || true
+ask 'Is the project saved in the intended folder?' || true
+ask 'Are export format and destination correct?' || true
+echo 'Checklist complete. Answers were not saved or transmitted.'

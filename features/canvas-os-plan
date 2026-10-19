@@ -1,0 +1,13 @@
+#!/usr/bin/env bash
+set -euo pipefail
+mkdir -p "$HOME/Documents/canvas-os-session-plans"
+file="$HOME/Documents/canvas-os-session-plans/plan-$(date +%Y%m%d-%H%M%S).md"
+{
+ printf '# Canvas-OS session plan\n\n'
+ printf 'Created: %s\n\n' "$(date -Is)"
+ printf 'Purpose: digital art, video editing, 3D work, and recording\n\n## Prompts\n'
+ printf '%s\n' '- What are you making?' '- What is the next creative milestone?' '- What source files, licenses, or export settings need review?'
+ printf '\n## Notes\n'
+} > "$file"
+nano "$file"
+printf 'Saved locally: %s\n' "$file"
