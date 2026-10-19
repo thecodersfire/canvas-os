@@ -45,3 +45,6 @@ flatpak install --system --noninteractive flathub org.gimp.GIMP org.inkscape.Ink
 
 # Ten additional purpose-specific applications
 flatpak install --system --noninteractive flathub org.audacityteam.Audacity org.ardour.Ardour org.darktable.Darktable org.videolan.VLC org.mixxx.Mixxx org.gnome.Boxes org.gnome.TextEditor org.gnome.Calculator org.gnome.baobab org.gnome.Logs
+
+# Fifteen additional purpose-specific applications
+flatpak install --system --noninteractive flathub io.github.OpenToonz org.synfig.SynfigStudio com.orama_interactive.Pixelorama org.kde.digikam org.gnome.Shotwell com.rawtherapee.RawTherapee org.musescore.MuseScore io.lmms.LMMS org.hydrogenmusic.Hydrogen org.guitarix.Guitarix org.mozilla.Thunderbird org.gnome.Evolution org.gnome.SoundRecorder com.github.tchx84.Flatseal org.gnome.Calendar
