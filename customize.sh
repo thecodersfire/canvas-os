@@ -42,3 +42,6 @@ apt-get clean
 rm -rf /var/lib/apt/lists/*
 # Additional purpose-specific applications installed into the customized image.
 flatpak install --system --noninteractive flathub org.gimp.GIMP org.inkscape.Inkscape org.scribus.Scribus
+
+# Ten additional purpose-specific applications
+flatpak install --system --noninteractive flathub org.audacityteam.Audacity org.ardour.Ardour org.darktable.Darktable org.videolan.VLC org.mixxx.Mixxx org.gnome.Boxes org.gnome.TextEditor org.gnome.Calculator org.gnome.baobab org.gnome.Logs

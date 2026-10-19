@@ -30,3 +30,6 @@ echo 'Purpose-specific helper commands are installed in ~/.local/bin.'
 
 # Install the three additional purpose-specific applications selected in apps.txt.
 sudo flatpak install --system --noninteractive flathub org.gimp.GIMP org.inkscape.Inkscape org.scribus.Scribus
+
+# Ten additional purpose-specific applications
+sudo flatpak install --system --noninteractive flathub org.audacityteam.Audacity org.ardour.Ardour org.darktable.Darktable org.videolan.VLC org.mixxx.Mixxx org.gnome.Boxes org.gnome.TextEditor org.gnome.Calculator org.gnome.baobab org.gnome.Logs

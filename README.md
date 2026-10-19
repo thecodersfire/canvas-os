@@ -26,10 +26,4 @@ This source repository contains no generated ISO or third-party binaries. Keep g
 See [FEATURES.md](FEATURES.md) for three local tools included for digital art, video editing, 3D work, and recording.
 
 
-The installer also includes three purpose-specific applications: **GIMP, Inkscape, Scribus**. See [FEATURES.md](FEATURES.md).
-
-The installer also includes three purpose-specific applications: **GIMP, Inkscape, Scribus**. See [FEATURES.md](FEATURES.md).
-
-The installer also includes three purpose-specific applications: **GIMP, Inkscape, Scribus**. See [FEATURES.md](FEATURES.md).
-
-The installer also includes three purpose-specific applications: **GIMP, Inkscape, Scribus**. See [FEATURES.md](FEATURES.md).
+The installer includes ten more applications selected for this distro's purpose. See [FEATURES.md](FEATURES.md) for the list.
